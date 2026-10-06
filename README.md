@@ -49,7 +49,7 @@ I'm a **Computer Science Engineering student** who enjoys building practical sof
 ## 🚀 Featured Projects
 
 ### ❤️ Advanced Heart Attack Risk Prediction
-<img src="assets/heart-attack-ai.svg" width="100%" alt="Heart Attack Risk Prediction"/>
+<img src="heart-attack-ai.svg" width="100%" alt="Heart Attack Risk Prediction"/>
 
 A healthcare ML system that analyzes patient and lifestyle features to estimate heart attack risk, using a **stacked ensemble** (SVM, Random Forest, KNN) trained on **8,763 records**.
 
@@ -69,14 +69,14 @@ A healthcare ML system that analyzes patient and lifestyle features to estimate 
 <br>
 
 ### 🧠 Postpartum Depression Detection
-<img src="assets/postpartum-ai.svg" width="100%" alt="Postpartum Depression Detection"/>
+<img src="postpartum-ai.svg" width="100%" alt="Postpartum Depression Detection"/>
 
 A research-oriented ML project exploring detection of postpartum depression from **socio-demographic and psychosocial survey data**: data cleaning, feature engineering, and risk classification.
 
 <br>
 
 ### ♿ Accessibility Automation
-<img src="assets/accessibility-ai.svg" width="100%" alt="Accessibility Automation"/>
+<img src="accessibility-ai.svg" width="100%" alt="Accessibility Automation"/>
 
 A voice-based computer interaction system for people with motor disabilities. Speech goes through **Google Speech-to-Text**, gets parsed into commands, and drives the mouse, keyboard and apps.
 
