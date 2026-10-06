@@ -261,11 +261,13 @@ Mouse, keyboard & app control
 <img src="divider.svg" width="100%"/>
 
 ### 🦘 Thanks for stopping by
+<div align="center">
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="jumping"/>
 
 ### 🌐 Let's Connect
 Have an idea? Let's build it. 🚀
+<div align="center">
 
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=06B6D4&center=true&vCenter=true&width=420&lines=Open+to+collaborations;Open+to+internships;Let's+build+something+great" alt="footer"/>
