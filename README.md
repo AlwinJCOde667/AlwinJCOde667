@@ -260,24 +260,25 @@ Mouse, keyboard & app control
 </p>
 <img src="divider.svg" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwinJCOde667&theme=radical&hide_border=true" height="170" />
-</div>
-
-<img src="divider.svg" width="100%"/>
-
-<div align="center">
-
 ### 🦘 Thanks for stopping by
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="jumping"/>
 
 ### 🌐 Let's Connect
 Have an idea? Let's build it. 🚀
+<div align="center">
 
+<a href="mailto:alwinjohn626@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff2d55?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="www.linkedin.com/in/alwin-shajan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/AlwinJCOde667">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=06B6D4&center=true&vCenter=true&width=420&lines=Open+to+collaborations;Open+to+internships;Let's+build+something+great" alt="footer"/>
 
 <br>
