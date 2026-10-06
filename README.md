@@ -284,10 +284,8 @@ Built with the [contributions](https://www.npmjs.com/package/contributions) and 
 <img src="divider.svg" width="100%"/>
 
 ## 📝 Latest Activity (self-updating)
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 
 <img src="divider.svg" width="100%"/>
 
