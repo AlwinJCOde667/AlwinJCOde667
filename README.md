@@ -11,8 +11,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AlwinJCOde667&style=for-the-badge&color=0ea5e9&label=VISITORS+1%EF%B8%8F%E2%83%A3+3%EF%B8%8F%E2%83%A3+3%EF%B8%8F%E2%83%A3+7%EF%B8%8F%E2%83%A3"/>
-
+<img src="https://komarev.com/ghpvc/?username=AlwinJCOde667&style=for-the-badge&color=ff2d55&label=1337+VISITORS" />
 </div>
 
 <img src="divider.svg" width="100%"/>
