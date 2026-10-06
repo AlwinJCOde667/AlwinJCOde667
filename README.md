@@ -234,8 +234,6 @@ Mouse, keyboard & app control
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlwinJCOde667&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
 </div>
 
 <img src="divider.svg" width="100%"/>
