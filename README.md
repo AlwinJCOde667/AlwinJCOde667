@@ -260,9 +260,12 @@ Mouse, keyboard & app control
 </p>
 <img src="divider.svg" width="100%"/>
 
-## 📝 Latest Activity (self-updating)
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwinJCOde667&theme=radical&hide_border=true" height="170" />
+</div>
 
 <img src="divider.svg" width="100%"/>
 
