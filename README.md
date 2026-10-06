@@ -264,25 +264,6 @@ Mouse, keyboard & app control
 
 <img src="divider.svg" width="100%"/>
 
-## 🎮 Play With My Profile
-
-### ♟️ Chess (by [@timburgan](https://github.com/timburgan))
-Click a move link to open an issue; a GitHub Action plays it.
-Setup: copy the workflow + `chess_images` from [timburgan/timburgan](https://github.com/timburgan/timburgan), then paste the board section it generates here.
-
-### 🔴🟡 Connect 4 (community game by [@jonathangin52](https://github.com/jonathangin52))
-Setup: copy the Connect 4 workflow from [@jonathangin52's profile repo](https://github.com/jonathangin52/jonathangin52) into `.github/workflows/` and keep the board markers it asks for.
-
-### 🟩 Game of Life (by [@ethomson](https://github.com/ethomson))
-Built with the [contributions](https://www.npmjs.com/package/contributions) and [dat-life](https://www.npmjs.com/package/dat-life) packages. See [how it works](https://github.com/ethomson#how-does-it-work).
-
-<div align="center">
-<!-- After setting up the workflow, it will write the animated board here -->
-<img src="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/game-of-life.svg" width="80%" alt="Game of Life"/>
-</div>
-
-<img src="divider.svg" width="100%"/>
-
 ## 📝 Latest Activity (self-updating)
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
