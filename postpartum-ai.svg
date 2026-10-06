@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2e1065"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+<style>
+.h{font-family:'Segoe UI',Arial,sans-serif;fill:#fff;font-weight:700;font-size:26px}
+.m{font-family:'Segoe UI',Arial,sans-serif;fill:#ddd6fe;font-size:15px}
+.l{font-family:'Segoe UI',Arial,sans-serif;fill:#fff;font-size:11px;text-anchor:middle}
+.pu{animation:p 2.5s ease-in-out infinite}
+@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+.fl{stroke-dasharray:8 6;animation:dash 1.5s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-28}}
+.br{animation:b 4s ease-in-out infinite;transform-origin:110px 120px}
+@keyframes b{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+</style></defs>
+<rect width="900" height="240" rx="18" fill="url(#g)"/>
+<g class="br"><path d="M110 55 C60 55 45 100 70 125 C55 150 80 185 110 175 C140 185 165 150 150 125 C175 100 160 55 110 55Z" fill="#a78bfa" fill-opacity=".85"/>
+<path d="M110 60 V172 M110 95 Q85 100 75 118 M110 95 Q135 100 145 118 M110 140 Q88 142 80 158 M110 140 Q132 142 140 158" stroke="#4c1d95" stroke-width="3" fill="none"/></g>
+<text class="h" x="250" y="55">Postpartum Depression Detection</text>
+<text class="m" x="250" y="82">Research ML on socio-demographic &amp; psychosocial survey data</text>
+<g transform="translate(250,115)">
+<rect width="130" height="50" rx="10" fill="#7c3aed"/><text class="l" x="65" y="30">Data Cleaning</text>
+<rect x="170" width="130" height="50" rx="10" fill="#6d28d9"/><text class="l" x="235" y="30">Feature Eng.</text>
+<rect x="340" width="130" height="50" rx="10" fill="#5b21b6"/><text class="l" x="405" y="30">Classification</text>
+<rect x="510" width="130" height="50" rx="10" fill="#c026d3"/><text class="l" x="575" y="30">Risk Output</text>
+<g stroke="#f0abfc" stroke-width="2.5" class="fl"><line x1="130" y1="25" x2="170" y2="25"/><line x1="300" y1="25" x2="340" y2="25"/><line x1="470" y1="25" x2="510" y2="25"/></g>
+<circle class="pu" cx="65" cy="-12" r="4" fill="#f0abfc"/><circle class="pu" cx="405" cy="-12" r="4" fill="#f0abfc" style="animation-delay:1s"/>
+</g>
+<text class="m" x="250" y="215">Python • Pandas • Scikit-learn • Survey Analytics</text>
+</svg>
