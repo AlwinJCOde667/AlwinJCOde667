@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80">
+<defs><style>
+.p{font-family:'Segoe UI',Arial,sans-serif;font-size:15px;font-weight:700;fill:#fff;text-anchor:middle}
+.row{animation:s 28s linear infinite}
+@keyframes s{to{transform:translateX(-1400px)}}
+</style>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#0b1220"/><stop offset=".08" stop-color="#0b1220" stop-opacity="0"/><stop offset=".92" stop-color="#0b1220" stop-opacity="0"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+<g id="set">
+<rect x="0" y="20" width="110" height="40" rx="20" fill="#3776AB"/><text class="p" x="55" y="46">Python</text>
+<rect x="125" y="20" width="90" height="40" rx="20" fill="#E76F00"/><text class="p" x="170" y="46">Java</text>
+<rect x="230" y="20" width="90" height="40" rx="20" fill="#00599C"/><text class="p" x="275" y="46">C++</text>
+<rect x="335" y="20" width="70" height="40" rx="20" fill="#555"/><text class="p" x="370" y="46">C</text>
+<rect x="420" y="20" width="100" height="40" rx="20" fill="#E34F26"/><text class="p" x="470" y="46">HTML5</text>
+<rect x="535" y="20" width="90" height="40" rx="20" fill="#1572B6"/><text class="p" x="580" y="46">CSS3</text>
+<rect x="640" y="20" width="130" height="40" rx="20" fill="#b59a00"/><text class="p" x="705" y="46">JavaScript</text>
+<rect x="785" y="20" width="90" height="40" rx="20" fill="#0175C2"/><text class="p" x="830" y="46">Dart</text>
+<rect x="890" y="20" width="110" height="40" rx="20" fill="#02569B"/><text class="p" x="945" y="46">Flutter</text>
+<rect x="1015" y="20" width="130" height="40" rx="20" fill="#F7931E"/><text class="p" x="1080" y="46">Scikit-learn</text>
+<rect x="1160" y="20" width="110" height="40" rx="20" fill="#150458"/><text class="p" x="1215" y="46">Pandas</text>
+<rect x="1285" y="20" width="100" height="40" rx="20" fill="#013243"/><text class="p" x="1335" y="46">NumPy</text>
+</g></defs>
+<rect width="1000" height="80" fill="#0b1220" rx="12"/>
+<g class="row"><use href="#set"/><use href="#set" x="1400"/></g>
+<rect width="1000" height="80" fill="url(#f)" rx="12"/>
+</svg>
