@@ -285,13 +285,9 @@ Built with the [contributions](https://www.npmjs.com/package/contributions) and 
 
 ## 📝 Latest Activity (self-updating)
 
-Inspired by [@simonw](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). A GitHub Action rewrites the list below.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- RECENT-ACTIVITY:START -->
-<!-- RECENT-ACTIVITY:END -->
 
 <img src="divider.svg" width="100%"/>
 
