@@ -253,14 +253,11 @@ Mouse, keyboard & app control
 
 ## 🎵 Now Playing
 
-<div align="center">
-
-<!-- Setup: deploy novatorem (github.com/novatorem/novatorem) to Vercel with your Spotify keys, then replace the URL below. -->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-  <img src="https://novatorem-YOUR-VERCEL-APP.vercel.app/api/spotify" width="480" alt="Spotify now playing"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000b11&interchange=false&profanity=false&hide_remaster=false&bar_color=530237&bar_color_cover=false&mode=dark">
+  </a>
+</p>
 
 <img src="divider.svg" width="100%"/>
 
