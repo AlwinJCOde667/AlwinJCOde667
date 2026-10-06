@@ -254,11 +254,10 @@ Mouse, keyboard & app control
 ## 🎵 Now Playing
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000b11&interchange=false&profanity=false&hide_remaster=false&bar_color=530237&bar_color_cover=false&mode=dark">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000b11&interchange=false&profanity=false&hide_remaster=false&bar_color=530237&bar_color_cover=true&mode=dark">
   </a>
 </p>
-
 <img src="divider.svg" width="100%"/>
 
 ## 📝 Latest Activity (self-updating)
