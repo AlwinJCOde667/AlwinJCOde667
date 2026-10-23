@@ -17,8 +17,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
-
 I'm a **Computer Science Engineering student** who loves taking an idea from
 **concept → model → application → working prototype**.
 
