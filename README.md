@@ -28,8 +28,6 @@ class AlwinJohn:
     status  = "Always learning, always shipping 🚀"
 ```
 
-<br clear="right"/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
