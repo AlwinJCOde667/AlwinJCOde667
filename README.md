@@ -1,6 +1,3 @@
-Here is the entire README code placed inside a single plain markdown block so you can copy the whole thing cleanly at once without nested syntax getting separated.
-
-```
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=ALWIN_JOHN_SHAJAN;AI_ARCHITECT_//_VISION_SYSTEMS;SYSTEM_STATUS:_ONLINE" alt="Header Typing" />
@@ -172,5 +169,3 @@ class SystemCore:
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:00F0FF,100:000000" width="100%" />
 </div>
-
-```
