@@ -1,96 +1,81 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:0d1117&height=220&section=header&text=ALWIN%20JOHN&fontSize=70&fontColor=ffffff&animation=fadeIn&descAlign=Ypos&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision" width="100%"/>
+<!-- ANIMATED HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:00F0FF,100:111111&height=250&section=header&text=ALWIN%20JOHN&fontSize=60&fontColor=ffffff&animation=twinkling&desc=A.I.%20Architect%20//%20Vision%20Systems%20//%20Next-Gen%20Web&descAlignY=70&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00f2fe&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+that+understand+the+world.;Engineering+predictive+models+and+neural+architectures.;Turning+abstract+concepts+into+working+prototypes.;Always+learning,+always+shipping+🚀" alt="Typing SVG" />
+<br><br>
+
+<!-- BENTO GRID: ROW 1 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="15">
+  <tr>
+    <!-- MODULE 1: THE CORE (Wide) -->
+    <td width="65%" valign="top" align="left">
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=22&pause=1000&color=00F0FF&vCenter=true&width=500&lines=System_Initialization...;Building_Neural_Networks...;Engineering_the_Future." alt="Typing SVG" />
+      <br><br>
+      <p style="color: #a3a3a3;">Computer Science Engineer specializing in taking complex architectural ideas from raw concept to high-performance, intelligent software. I build systems that merge heavy backend machine learning with razor-sharp frontend logic.</p>
+      <br>
+      <a href="https://github.com/AlwinJCOde667"><img src="https://img.shields.io/badge/GITHUB_UPLINK-111111?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
+      <a href="https://www.linkedin.com/in/alwin-shajan"><img src="https://img.shields.io/badge/LINKEDIN_NODE-111111?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
+    </td>
+
+    <!-- MODULE 2: AUDIO TELEMETRY (Square) -->
+    <td width="35%" valign="top" align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0a0a0a&interchange=true&profanity=false&bar_color=00F0FF&bar_color_cover=false&mode=dark" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- BENTO GRID: ROW 2 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="15">
+  <tr>
+    <!-- MODULE 3: TECH MATRIX (Square) -->
+    <td width="40%" valign="top" align="center">
+      <h4 align="left"><code>> SYS.TECH_STACK</code></h4>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,react,nodejs,tailwind,linux,git,github,vscode,figma&perline=4&theme=dark" />
+    </td>
+
+    <!-- MODULE 4: GLOBAL ANALYTICS (Wide) -->
+    <td width="60%" valign="top" align="center">
+      <h4 align="left"><code>> SYS.ANALYTICS</code></h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=a3a3a3&icon_color=00F0FF" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<a href="https://github.com/AlwinJCOde667"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00f2fe"/></a>
-<a href="https://www.linkedin.com/in/alwin-shajan"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00f2fe"/></a>
-<img src="https://komarev.com/ghpvc/?username=AlwinJCOde667&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS&labelColor=111111" />
-
-</div>
-
-<br><br>
-
-<table width="100%" style="border: none; border-collapse: collapse;">
+<!-- MODULE 5: PROJECTS (Full Width Grid) -->
+<h3 align="left"><code>> FEATURED_LOGIC_GATES</code></h3>
+<table width="100%" border="0" cellspacing="0" cellpadding="15">
   <tr>
-    <td width="55%" valign="top">
-      <h2><code>> SYS.WHOAMI</code></h2>
-      <p>I am a Computer Science Engineering student focused on <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Accessibility Tech</b>. I build software that processes raw data into actionable intelligence, ranging from predictive healthcare models to kinetic bypass systems for motor disabilities.</p>
-      <br>
-      <h3><code>> TECH_MATRIX</code></h3>
-      <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,react,nodejs,tailwind,linux,git,github,vscode,figma&perline=7&theme=dark" />
+    <td width="33%" valign="top" align="left">
+      <b>01_HEART_ATTACK_AI</b><br>
+      <img src="https://img.shields.io/badge/YIELD-89.13%25-00F0FF?style=flat-square&labelColor=111111"/><br><br>
+      Stacked ensemble (SVM+RF+KNN) outperforming 8 isolated benchmark models on 8k+ patient records.
     </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f2fe&icon_color=00f2fe" width="100%"/>
+    <td width="33%" valign="top" align="left">
+      <b>02_POSTPARTUM_DETECT</b><br>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-00F0FF?style=flat-square&labelColor=111111"/><br><br>
+      Translating complex psychosocial and socio-demographic survey telemetry into binary risk classifications.
     </td>
-  </tr>
-</table>
-
-<br><br>
-
-<h2 align="center"><code>> DEPLOYED_MODELS & RESEARCH</code></h2>
-
-<table width="100%" style="border: none;">
-  <tr align="center">
-    <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Anatomical%20Heart.png" alt="Heart" width="65" />
-      <br>
-      <h3>Heart Attack Risk AI</h3>
-      <p align="left">Analyzed <b>8,763 patient records</b> to predict cardiac events. Engineered a custom Stacked Ensemble (SVM + RF + KNN) that outperformed 8 isolated benchmark algorithms.</p>
-      <img src="https://img.shields.io/badge/ACCURACY-89.13%25-00f2fe?style=flat-square&labelColor=111111"/>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" alt="Brain" width="65" />
-      <br>
-      <h3>Postpartum Detect</h3>
-      <p align="left">Research-grade ML pipeline mapping maternal mental health. Translates highly complex psychosocial and socio-demographic survey telemetry into distinct risk classifications.</p>
-      <img src="https://img.shields.io/badge/STATUS-RESEARCH_NODE-00f2fe?style=flat-square&labelColor=111111"/>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Mic" width="65" />
-      <br>
-      <h3>Accessibility Override</h3>
-      <p align="left">A kinetic bypass system for motor disabilities. Intercepts audio via Google Speech-to-Text, parsing transcriptions to directly drive OS mouse and keyboard layers hands-free.</p>
-      <img src="https://img.shields.io/badge/API-GOOGLE_SPEECH-00f2fe?style=flat-square&labelColor=111111"/>
+    <td width="33%" valign="top" align="left">
+      <b>03_KINETIC_BYPASS</b><br>
+      <img src="https://img.shields.io/badge/API-GOOGLE_SPEECH-00F0FF?style=flat-square&labelColor=111111"/><br><br>
+      Vocal frequency tracking mapped to execute OS hardware commands for motor-impaired users.
     </td>
   </tr>
 </table>
 
 <br><br>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinJCOde667&layout=donut&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00f2fe" width="90%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=AlwinJCOde667&hide_border=true&theme=tokyonight&background=00000000&ring=00f2fe&fire=00f2fe&stroke=00000000" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- MODULE 6: CONTRIBUTION MATRIX -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <br><br>
-
-<div align="center">
-  <h3><code>> COMMIT_HISTORY</code></h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake.svg" width="90%">
-  </picture>
+<img src="https://komarev.com/ghpvc/?username=AlwinJCOde667&style=for-the-badge&color=00F0FF&label=NETWORK_VISITORS&labelColor=111111" />
 </div>
-
-<br><br>
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=00f2fe&bar_color_cover=true&mode=dark">
-  </a>
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:0d1117&height=120&section=footer" width="100%"/>
