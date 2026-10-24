@@ -1,75 +1,85 @@
+<!-- 
+=======================================================================
+1. RECORD A SCREEN RECORDING OF YOUR 3D IGLOO WEBSITE.
+2. CONVERT IT TO A HIGH-QUALITY GIF.
+3. UPLOAD IT TO YOUR REPO AND REPLACE "YOUR_IGLOO_WEBSITE_RECORDING.gif" BELOW.
+======================================================================= 
+-->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=45&duration=4000&pause=1000&color=dcdfe3&center=true&vCenter=true&width=800&height=100&lines=ALWIN+JOHN;AI_ARCHITECT;SYS.ONLINE" />
+  <img src="YOUR_IGLOO_WEBSITE_RECORDING.gif" width="100%" alt="Cinematic 3D Igloo Flythrough" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 240, 255, 0.2);"/>
 </div>
 
 <br>
 
-<table width="100%" border="0" style="border:none; background:transparent;">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=ALWIN+JOHN_//+SYSTEM_ARCHITECT;BUILDING_AI_POWERED_REALITIES;MACHINE_LEARNING+_+WEB3_UI" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/AlwinJCOde667"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
+  <a href="https://www.linkedin.com/in/alwin-shajan"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
+</div>
+
+<br><br>
+
+<table width="100%" border="0" style="background:transparent;">
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <pre style="background:transparent; border:none; color:#a3a3a3; font-size: 10px;">
-          .  *  .  . *       *    .        .   
-     .    *      .     *   .     .      *      
-         .    .      _..-======-.._      .     
-      *      .   .-'                `-.     *  
-          .    .'  ..  ...   ...  ..   `.      
-    *      .  / ..    ...     ...    ... \   . 
-       .     | ...  ...   ...   ...  ...  |    
-     *       | ...  ...   ...   ...  ...  | .  
-      </pre>
-      <br>
-      <code>[ BASE_CAMP : IGLOO_INC ]</code>
+    <td width="50%" valign="top">
+      <h3><code>>_ CORE_DIRECTIVE</code></h3>
+      <p>I am a Computer Science Engineering student specializing in taking complex architectural ideas from raw concept to high-performance, intelligent software. I build systems that merge heavy backend data with cinematic frontend experiences.</p>
     </td>
-    <td width="60%" valign="top">
-      <h3><code>> EXECUTE / WHOAMI</code></h3>
-      <p>I engineer intelligent systems that bridge the gap between abstract concepts and functional reality. Specializing in <b>Machine Learning</b>, <b>Computer Vision</b>, and high-performance applications.</p>
-      <blockquote><i>Mission: Build software that alters the physical world.</i></blockquote>
-      <br>
-      <a href="https://github.com/AlwinJCOde667"><kbd>GITHUB_UPLINK</kbd></a> &nbsp;
-      <a href="https://www.linkedin.com/in/alwin-shajan"><kbd>LINKEDIN_NODE</kbd></a>
+    <td width="50%" valign="top">
+      <h3><code>>_ TECH_STACK</code></h3>
+      <img src="https://skillicons.dev/icons?i=python,js,threejs,react,tailwind,nodejs,cpp,linux,git&theme=dark&perline=5"/>
     </td>
   </tr>
 </table>
-
-<br><br><hr style="border: 1px solid #333;"><br>
-
-<h3 align="center"><code>> SYSTEM_PROCESSES // NEURAL_NETWORKS</code></h3>
 
 <br>
 
-<table width="100%" border="0">
-  <tr align="left" valign="top">
-    <td width="33%">
-      <b>01. HEART ATTACK PREDICTOR</b><br><br>
-      <img src="https://img.shields.io/badge/ACCURACY-89.13%25-111111?style=flat-square&color=ffffff"/><br><br>
-      8,763 patient records analyzed. Custom SVM + RF + KNN stacked ensemble outperforming 8 isolated benchmark algorithms.
+<h3 align="center"><code>>_ CLASSIFIED_OPERATIONS</code></h3>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://cdn.dribbble.com/users/1003944/screenshots/15741863/media/9dfc29fbfbba495392dfdb669ccfa626.gif" width="100%" style="border-radius:10px;"/>
+      <br><br>
+      <b>[01] HEART ATTACK AI</b><br>
+      <code>8,763 Records | 89.13% Yield</code><br>
+      Stacked ensemble (SVM+RF+KNN) outperforming 8 isolated models.
     </td>
-    <td width="33%">
-      <b>02. POSTPARTUM AI</b><br><br>
-      <img src="https://img.shields.io/badge/STATUS-RESEARCH-111111?style=flat-square&color=ffffff"/><br><br>
-      Maternal mental health research. Translating socio-demographic and psychosocial survey telemetry into binary risk classifications.
+    <td width="33%" align="center">
+      <img src="https://cdn.dribbble.com/users/1003944/screenshots/16301368/media/c0ba9e25d27299a9b4ad55848bb29094.gif" width="100%" style="border-radius:10px;"/>
+      <br><br>
+      <b>[02] POSTPARTUM DETECT</b><br>
+      <code>Research Node | ML Pipeline</code><br>
+      Translating psychosocial survey telemetry into binary risk classifications.
     </td>
-    <td width="33%">
-      <b>03. KINETIC BYPASS</b><br><br>
-      <img src="https://img.shields.io/badge/API-GOOGLE_SPEECH-111111?style=flat-square&color=ffffff"/><br><br>
-      Accessibility automation. Google Speech-to-Text intercepted and parsed into executable commands to drive OS mouse/keyboard layers.
+    <td width="33%" align="center">
+      <img src="https://cdn.dribbble.com/users/1003944/screenshots/14107106/media/078832a818c47f7d1428236166fc4be3.gif" width="100%" style="border-radius:10px;"/>
+      <br><br>
+      <b>[03] KINETIC BYPASS</b><br>
+      <code>Google Speech API | OS Override</code><br>
+      Vocal frequency tracking mapped to execute OS hardware commands.
     </td>
   </tr>
 </table>
 
-<br><br><hr style="border: 1px solid #333;"><br>
+<br><br>
 
+<h3 align="center"><code>>_ GLOBAL_TELEMETRY</code></h3>
 <div align="center">
-  <h3><code>> GLOBAL_TELEMETRY</code></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinJCOde667&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&hide_border=true&title_color=00F0FF&text_color=a3a3a3&icon_color=00F0FF&bg_color=0a0a0a" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinJCOde667&layout=compact&hide_border=true&title_color=00F0FF&text_color=a3a3a3&bg_color=0a0a0a" width="48%" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake.svg" width="80%">
+  <img alt="snake" src="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 </div>
