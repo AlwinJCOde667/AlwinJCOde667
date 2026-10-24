@@ -1,171 +1,138 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=ALWIN_JOHN_SHAJAN;AI_ARCHITECT_//_VISION_SYSTEMS;SYSTEM_STATUS:_ONLINE" alt="Header Typing" />
+<!-- Matrix Header Canvas -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0208&height=200&section=header&text=ALWIN%20JOHN%20SHAJAN&fontSize=42&fontColor=00FF66&animation=twinkle" width="100%" alt="Matrix Header" />
 
-<br>
+<!-- Typing Effect: "Wake up, Alwin..." -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=Wake+up%2C+Alwin...;The+Matrix+has+you...;Follow+the+white+rabbit.+%F0%9F%90%87;Knock%2C+knock%2C+Alwin." alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <code><b>LOC:</b> 0x00_MAINFRAME</code> &nbsp;•&nbsp; 
-  <code><b>CORE:</b> AI/ML_ENGINEERING</code> &nbsp;•&nbsp; 
-  <code><b>STATUS:</b> ACTIVE_DEVELOPMENT</code>
+  <b>Operator Designation:</b> <code>AlwinJCOde667</code> | <b>Status:</b> Unplugged / Free Mind ⚡
 </p>
 
-<a href="https://github.com/AlwinJCOde667"><img src="https://img.shields.io/badge/UPLINK-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=000000" /></a>
-<a href="https://www.linkedin.com/in/alwin-shajan"><img src="https://img.shields.io/badge/NODE-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=000000" /></a>
-<a href="#"><img src="https://img.shields.io/badge/ACCESS-LIVE_PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=00F0FF" /></a>
+---
 
-<br><br>
+### 💊 THE CHOICE IS YOURS
 
-<img src="https://komarev.com/ghpvc/?username=AlwinJCOde667&style=for-the-badge&color=00F0FF&label=TELEMETRY_LOGS_PULLED&labelColor=000000" />
+<p align="center">
+  <i>"This is your last chance. After this, there is no turning back."</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔴 Red Pill</h3>
+      <p><b>See how deep the code rabbit hole goes.</b></p>
+      <a href="#-mainframe-data-core"><b>[ ACCESS SYSTEM CORE ]</b></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔵 Blue Pill</h3>
+      <p><b>Return to normal life and believe whatever you want.</b></p>
+      <a href="https://www.google.com"><b>[ RE-ENTER SIMULATION ]</b></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br><br>
+---
 
-//========================================================================================//
-// [SYS_DIR]: /ROOT/CORE_DIRECTIVE                                                        //
-//========================================================================================//
+## ⚡ MAINFRAME DATA CORE
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10" style="background-color: #000000;">
-  <tr>
-    <td width="60%" valign="top">
-      <h3><code>> EXECUTE / IDENTITY_LOG</code></h3>
-      <p>I engineer intelligent systems that bridge abstract data architectures and functional reality. Specializing in <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Accessibility Automation</b>, I focus on building high-yield models and deployment pipelines.</p>
-      <br>
-      <pre><code>
-class SystemCore:
-    def __init__(self):
-        self.developer = "Alwin John Shajan"
-        self.stack     = ["Python", "C++", "PyTorch", "OpenCV", "Three.js"]
-        self.directive = "Transform raw data streams into autonomous software."
-        self.state     = "0x00_EXECUTING"
-      </code></pre>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h3><code>> TECH_MATRIX</code></h3>
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,js,threejs,react,tailwind,linux,git,github,vscode,figma&perline=3&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-//========================================================================================//
-// [SYS_DIR]: /ROOT/DEPLOYED_ARCHITECTURES                                                //
-//========================================================================================//
-
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-  <tr valign="top">
-    <!-- PROJECT 1 -->
-    <td width="33%">
-      <div align="left">
-        <code><b>[PRJ_01]</b></code>
-        <h4>HEART ATTACK RISK AI</h4>
-        <img src="https://img.shields.io/badge/ACCURACY-89.13%25-00F0FF?style=flat-square&labelColor=000000" /><br><br>
-        <p style="font-size: 12px; color: #a3a3a3;">
-          Healthcare ML engine processing <b>8,763 patient records</b>. Deployed a custom Stacked Ensemble (SVM + Random Forest + KNN) that outperformed 8 isolated baseline algorithms.
-        </p>
-        <code>SCIKIT-LEARN</code> • <code>PANDAS</code> • <code>ENSEMBLE</code>
-      </div>
-    </td>
-    <!-- PROJECT 2 -->
-    <td width="33%">
-      <div align="left">
-        <code><b>[PRJ_02]</b></code>
-        <h4>POSTPARTUM DETECT</h4>
-        <img src="https://img.shields.io/badge/STATUS-RESEARCH_NODE-00F0FF?style=flat-square&labelColor=000000" /><br><br>
-        <p style="font-size: 12px; color: #a3a3a3;">
-          Research-grade classification pipeline analyzing socio-demographic and psychosocial survey telemetry to map early risk markers for maternal mental health.
-        </p>
-        <code>PYTHON</code> • <code>DATA_SANITIZATION</code> • <code>ML</code>
-      </div>
-    </td>
-    <!-- PROJECT 3 -->
-    <td width="33%">
-      <div align="left">
-        <code><b>[PRJ_03]</b></code>
-        <h4>ACCESSIBILITY BYPASS</h4>
-        <img src="https://img.shields.io/badge/API-GOOGLE_SPEECH-00F0FF?style=flat-square&labelColor=000000" /><br><br>
-        <p style="font-size: 12px; color: #a3a3a3;">
-          Voice-driven OS automation engine for motor disability assistance. Converts vocal input into executable system calls, overriding physical mouse/keyboard commands.
-        </p>
-        <code>SPEECH_TO_TEXT</code> • <code>OS_AUTOMATION</code>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b><code>[+] DECRYPT BENCHMARK DATA LOGS (MODEL PERFORMANCE)</code></b></summary>
+<details open>
+<summary><b>📜 System Identity: <code>whoami.sh</code></b></summary>
 <br>
 
-| ALGORITHM ARCHITECTURE | METRIC (ACCURACY) | PERFORMANCE GRAPH |
-| :--- | :--- | :--- |
-| **Decision Tree Classifier** | 79.35% | `████████░░░░` |
-| **Naive Bayes** | 83.70% | `█████████░░░` |
-| **Logistic Regression** | 84.24% | `█████████░░░` |
-| **K-Nearest Neighbors (KNN)** | 84.78% | `█████████░░░` |
-| **Support Vector Machine (SVM)**| 86.96% | `██████████░░` |
-| **Random Forest Classifier** | 88.04% | `██████████░░` |
-| **Voting Ensemble Node** | 88.59% | `██████████░░` |
-| **Stacked Ensemble (Final)** | **89.13%** | `████████████ ✦` |
+```bash
+[root@nebuchadnezzar ~]# cat /etc/identity.conf
+
+NAME        : Alwin John Shajan
+HANDLE      : AlwinJCOde667
+ROLE        : Software Engineer & System Architect
+MISSION     : Decoding reality, building resilient architectures, and bending system boundaries.
+LOCATION    : Operating inside the Construct
+QUOTE       : "I know Kung Fu... and clean code."
+```
 
 </details>
 
-<br><br>
+<details>
+<summary><b>🐇 White Rabbit Protocols: Current Operations</b></summary>
+<br>
 
-//========================================================================================//
-// [SYS_DIR]: /ROOT/LIVE_TELEMETRY                                                        //
-//========================================================================================//
+* 🔭 **Active Task:** Building high-throughput full-stack web architectures & microservices.
+* 🧠 **Neural Download:** Exploring cloud-native infrastructures and AI agent systems.
+* 🤝 **Resistance Alliance:** Open to collaborating on innovative open-source projects.
+* 💬 **Encrypted Channel:** Ask me about **TypeScript**, **Python**, **React**, or **Backend Internals**.
+
+</details>
+
+---
+
+## 🛠️ THE CONSTRUCT: WEAPONS & TOOLS
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&hide_border=true&title_color=00F0FF&text_color=a3a3a3&icon_color=00F0FF&bg_color=00000000" width="95%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinJCOde667&layout=compact&hide_border=true&title_color=00F0FF&text_color=a3a3a3&bg_color=00000000" width="95%" />
-    </td>
-  </tr>
-</table>
+### 💻 Core Languages
+![Python](https://img.shields.io/badge/Python-00FF66?style=for-the-badge&logo=python&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF66?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FF66?style=for-the-badge&logo=typescript&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-00FF66?style=for-the-badge&logo=cplusplus&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-00FF66?style=for-the-badge&logo=gnubash&logoColor=000000)
+
+### ⚡ Frameworks & Engines
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF66)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF66)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=000000)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00FF66)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF66)
+
+### 🗄️ Infrastructure & Data Storage
+![Docker](https://img.shields.io/badge/Docker-00FF66?style=for-the-badge&logo=docker&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FF66?style=for-the-badge&logo=postgresql&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FF66?style=for-the-badge&logo=mongodb&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-00FF66?style=for-the-badge&logo=git&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-00FF66?style=for-the-badge&logo=linux&logoColor=000000)
+
+</div>
+
+---
+
+## 📊 SIMULATION METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&theme=matrix&title_color=00FF66&text_color=00FF66&icon_color=00FF66&bg_color=0D0208&border_color=00FF66&border_radius=10" width="48%" alt="Alwin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinJCOde667&layout=compact&theme=matrix&title_color=00FF66&text_color=00FF66&bg_color=0D0208&border_color=00FF66&border_radius=10" width="48%" alt="Alwin's Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwinJCOde667&theme=matrix&background=0D0208&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="97%" alt="Matrix Contribution Streak" />
+
+</div>
+
+---
+
+## 📟 TRANSMISSION TERMINAL
+
+> *"I can only show you the door. You're the one that has to walk through it."* — Morpheus
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Signal_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Direct_Comms-000000?style=for-the-badge&logo=gmail&logoColor=00FF66)](mailto:your-email@example.com)
+[![X/Twitter](https://img.shields.io/badge/Broadcast_X-000000?style=for-the-badge&logo=x&logoColor=00FF66)](https://x.com)
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=AlwinJCOde667&hide_border=true&title_color=00F0FF&text_color=a3a3a3&sideNums=a3a3a3&sideLabels=a3a3a3&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&currStreakNum=00F0FF&background=00000000" width="90%" />
+```
+┌──────────────────────────────────────────────────────────┐
+│  SURVEILLANCE NOTICE: YOUR VISIT HAS BEEN REGISTERED    │
+└──────────────────────────────────────────────────────────┘
+```
 
-</div>
+![Visitor Counter](https://komarev.com/ghpvc/?username=AlwinJCOde667&label=MATRIX%20INTRUSIONS&color=00FF66&style=flat-square)
 
-<br><br>
-
-//========================================================================================//
-// [SYS_DIR]: /ROOT/CONTRIBUTION_MATRIX                                                    //
-//========================================================================================//
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake Matrix" src="https://raw.githubusercontent.com/AlwinJCOde667/AlwinJCOde667/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
-</div>
-
-<br><br>
-
-//========================================================================================//
-// [SYS_DIR]: /ROOT/AUDIO_FEED                                                            //
-//========================================================================================//
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c7z17af5h0i5fe5gf5aixbdea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=00F0FF&bar_color_cover=true&mode=dark" width="60%">
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=14&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&lines=AWAITING_COLLABORATION_PROTOCOL;OPEN_TO_RESEARCH_AND_INTERNSHIPS;TERMINAL_DISCONNECTED." alt="Footer Typing" />
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:00F0FF,100:000000" width="100%" />
 </div>
