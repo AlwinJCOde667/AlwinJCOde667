@@ -1,88 +1,74 @@
-<div align="center">
+<h1 align="center">Alwin John Shajan</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF66&height=200&section=header&text=Alwin%20John%20Shajan&fontColor=00FF66&fontSize=42&animation=fadeIn" width="100%" alt="banner" />
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Undergrad-C6FF33?style=for-the-badge&labelColor=0B0D10" alt="CSE Undergrad">
+  <img src="https://img.shields.io/badge/Open%20to%20collaborate-2B4CFF?style=for-the-badge&labelColor=0B0D10" alt="Open to collaborate">
+</p>
 
-<a href="https://github.com/AlwinJCOde667">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Wake+up%2C+Alwin...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;CSE+Undergrad+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
-</a>
+<h3 align="center">I build projects around AI, automation and accessibility.</h3>
 
-`OPERATOR: AlwinJCOde667` | `SYSTEM: NEBUCHADNEZZAR` | `STATUS: UNPLUGGED ⚡`
+<p align="center">
+  B.Tech CSE student building practical software, from the idea<br>
+  to something people can actually use.
+</p>
 
-</div>
-
----
-
-## 💊 The Choice
-
-| 🔴 Red Pill | 🔵 Blue Pill |
-|:---:|:---:|
-| *"I show you how deep the rabbit hole goes."* | *"You believe whatever you want to believe."* |
-| [**Enter the system ↓**](#-system-diagnostics) | [**Return to the simulation**](https://www.google.com) |
-
----
-
-## 🖥️ System Diagnostics
-
-<details open>
-<summary><b>📂 ./whoami.sh</b></summary>
-
-- 🎓 B.Tech CSE student at **Sahrdaya College of Engineering and Technology**, Thrissur (2023 – 2027)
-- 🔭 Building projects around **AI, automation and accessibility**
-- 🧠 Strengthening **DSA** and problem solving in **C++ / Java / Python**
-- 🤝 Open to collaborating on student and open-source projects
-
-</details>
+<p align="center">
+  <a href="#selected-work"><img src="https://img.shields.io/badge/Explore%20my%20work-C6FF33?style=flat-square&labelColor=0B0D10" alt="Work"></a>
+  <a href="https://github.com/AlwinJCOde667?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-0B0D10?style=flat-square&labelColor=0B0D10" alt="Repos"></a>
+  <a href="#get-in-touch"><img src="https://img.shields.io/badge/Get%20in%20touch-2B4CFF?style=flat-square&labelColor=0B0D10" alt="Contact"></a>
+</p>
 
 ---
 
-## 🛠️ The Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF66)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF66)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF66)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF66)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF66)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF66)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF66)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF66)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66)
-
-</div>
-
----
-
-## 🚀 Missions (Projects)
-
-| Project | Description |
+|  |  |
 |---|---|
-| [**CERP-y**](https://github.com/AlwinJCOde667/PROJECT-CERP-y) | Voice-activated computer automation for users with disabilities |
-| [**AI-Based Fraud & Trust Detector**](https://github.com/AlwinJCOde667/AI-Based-Fraud-and-Trust-Detector-in-E-Commerce-Platforms) | ML-based trust and fraud detection for e-commerce platforms |
-| [**Procedural Narrative Engine**](https://github.com/alwin-mj/Procedural-Narrative-Engine) | Real-time facial emotion detection that drives scene direction |
+| **Status** | 🟩 Open to collaborating on student and open-source projects |
+| **Focus** | AI, automation and accessibility |
+| **Study** | B.Tech, Computer Science and Engineering, 2023–2027 |
+| **College** | Sahrdaya College of Engineering and Technology, Thrissur |
+| **Learning** | DSA and problem solving in C++, Java and Python |
 
 ---
 
-## 📊 Simulation Metrics
+## Selected work
 
-<div align="center">
+| Project | What it is | Stack |
+|---|---|---|
+| **[CERP-y](https://github.com/AlwinJCOde667/PROJECT-CERP-y)** | Voice-activated computer automation for users with disabilities. | `Voice` `Automation` `Accessibility` |
+| **[AI-Based Fraud & Trust Detector](https://github.com/AlwinJCOde667/AI-Based-Fraud-and-Trust-Detector-in-E-Commerce-Platforms)** | ML-based trust and fraud detection for e-commerce platforms. | `Machine Learning` `Python` |
+| **[Procedural Narrative Engine](https://github.com/alwin-mj/Procedural-Narrative-Engine)** | Real-time facial emotion detection that drives scene direction. | `Computer Vision` `Emotion Detection` |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&hide_border=false&title_color=00FF66&text_color=9EFFC4&icon_color=00FF66&bg_color=000000&border_color=00FF66" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinJCOde667&layout=compact&title_color=00FF66&text_color=9EFFC4&bg_color=000000&border_color=00FF66" alt="Top Languages" />
-
-</div>
+[All projects →](https://github.com/AlwinJCOde667?tab=repositories)
 
 ---
 
-## 📟 Transmission
+## Skills
 
-<div align="center">
+| | |
+|---|---|
+| **Languages** | `Python` `C` `C++` `Java` `SQL` |
+| **Web** | `HTML5` `CSS3` |
+| **Tools** | `Git` `GitHub` |
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/AlwinJCOde667)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+---
 
-![Visitors](https://komarev.com/ghpvc/?username=AlwinJCOde667&label=MATRIX%20INTRUSIONS&color=00FF66&style=flat-square)
+## GitHub activity
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=100&section=footer" width="100%" alt="footer" />
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlwinJCOde667&show_icons=true&hide_border=true&title_color=C6FF33&text_color=F3F3EA&icon_color=2B4CFF&bg_color=0B0D10" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinJCOde667&layout=compact&hide_border=true&title_color=C6FF33&text_color=F3F3EA&bg_color=0B0D10" alt="Top languages">
+</p>
 
-</div>
+---
+
+## Get in touch
+
+GitHub is the best way to reach me. You can also find me on LinkedIn.
+
+<p>
+  <a href="https://github.com/AlwinJCOde667"><img src="https://img.shields.io/badge/GitHub-C6FF33?style=for-the-badge&logo=github&logoColor=0B0D10&labelColor=0B0D10" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-2B4CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0D10" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-2B4CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0D10" alt="Email"></a>
+</p>
+
+<p align="right"><sub>© 2026 Alwin John Shajan</sub></p>
