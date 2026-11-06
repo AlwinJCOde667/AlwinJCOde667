@@ -1,22 +1,16 @@
-<h1 align="center">ALWIN JOHN SHAJAN</h1>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Alwin John Shajan, ML Engineer and Systems Developer">
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ML%20ENGINEER-CCFF00?style=for-the-badge&labelColor=0A0A0A&color=CCFF00&logoColor=0A0A0A" alt="ML Engineer">
-  <img src="https://img.shields.io/badge/SYSTEMS%20DEVELOPER-FF007A?style=for-the-badge&labelColor=0A0A0A&color=FF007A" alt="Systems Developer">
-  <img src="https://img.shields.io/badge/OPEN%20FOR%20INTERNSHIPS-00F0FF?style=for-the-badge&labelColor=0A0A0A&color=00F0FF" alt="Open for internships">
+  <img src="assets/ticker.svg" width="100%" alt="Python, C++, Java, SQL, C, HTML, CSS, Git, DSA, OOP">
 </p>
 
 <h3 align="center">BUILDING INTELLIGENT AGENTS AND ACCESSIBLE SOFTWARE.</h3>
 
 <p align="center">
-  B.Tech Computer Science undergraduate building projects around AI,<br>
-  hands-free automation, real-time computer vision and machine learning systems.
-</p>
-
-<p align="center">
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO%20→-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=0A0A0A&logoColor=CCFF00" alt="Portfolio"></a>
-  <a href="https://github.com/AlwinJCOde667"><img src="https://img.shields.io/badge/GITHUB%20↗-FFE600?style=for-the-badge&labelColor=FFE600&color=FFE600" alt="GitHub"></a>
-  <a href="mailto:alwinjohn626@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH%20✉-FF007A?style=for-the-badge&labelColor=FF007A&color=FF007A" alt="Email"></a>
+  I build projects around AI, hands-free automation, real-time computer vision<br>
+  and machine learning systems, and sharpen my DSA and problem solving along the way.
 </p>
 
 <p align="center">
@@ -25,9 +19,9 @@
 
 ---
 
-| AVAILABILITY | DEGREE PROGRAM | PRIMARY STACK | LOCATION |
+| DEGREE | PRIMARY STACK | FOCUS | BASED IN |
 |:---:|:---:|:---:|:---:|
-| 🟩 Open for internships | B.Tech CSE (2023–2027) | Python · C++ · Java · SQL | Thrissur, Kerala |
+| B.Tech CSE (2023–2027) | Python · C++ · Java · SQL | AI · Automation · Accessibility | Thrissur, Kerala |
 
 ---
 
@@ -55,7 +49,7 @@
 
 ---
 
-## TECHNICAL SKILLS
+## TECH STACK
 
 <p>
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=CCFF00">
@@ -69,17 +63,14 @@
   <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=CCFF00">
 </p>
 
-**Also:** DSA and OOP
-
 ---
 
 ## NOW
 
 | | |
 |---|---|
-| **CURRENTLY LEARNING** | Data structures and algorithms in C++, Java and Python, plus OOP and problem solving |
-| **CURRENTLY BUILDING** | Projects in voice automation, machine learning and computer vision |
-| **LOOKING FOR** | Internships and collaborations in AI, accessibility and software development |
+| **LEARNING** | Data structures and algorithms in C++, Java and Python, plus OOP and problem solving |
+| **BUILDING** | Projects in voice automation, machine learning and computer vision |
 
 ---
 
@@ -97,14 +88,10 @@
 
 ---
 
-## LET’S CONNECT
-
-Open to internships, collaborations and campus opportunities in AI, accessibility and software development.
+## CONTACT
 
 <p>
   <a href="https://github.com/AlwinJCOde667"><img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=0A0A0A"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=0A0A0A"></a>
   <a href="mailto:alwinjohn626@gmail.com"><img src="https://img.shields.io/badge/Email-FF007A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"></a>
 </p>
-
-<p align="right"><sub>© 2026 ALWIN JOHN SHAJAN // PROFESSIONAL PORTFOLIO</sub></p>
